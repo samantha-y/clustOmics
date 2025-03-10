@@ -1,2 +1,2 @@
 # clustOmics
-STATS 3DA3 lab - clustering of single-cell proteomics data
+This is the repository for the Week 10 lab for STATS 3DA3 - clustering of single-cell proteomics data
